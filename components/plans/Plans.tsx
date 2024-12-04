@@ -1,9 +1,8 @@
 import React from 'react'
 import Pricing from './Pricing'
 
-type Props = {}
 
-const Plans = (props: Props) => {
+const Plans = () => {
     return (
         <section className='py-[140px] px-[220px]'>
             <div className='flex flex-col items-center justify-center'>

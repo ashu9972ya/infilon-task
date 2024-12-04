@@ -1,9 +1,8 @@
 import Image from 'next/image'
 import React from 'react'
 
-type Props = {}
 
-const HeroSection = (props: Props) => {
+const HeroSection = () => {
     return (
         <div className='bg-[#043873] text-[#FFFFFF]  py-[140px] px-[220px]'>
             <div className='flex justify-center items-center'>

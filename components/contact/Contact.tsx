@@ -1,9 +1,8 @@
 import Image from 'next/image'
 import React from 'react'
 
-type Props = {}
 
-const Contact = (props: Props) => {
+const Contact = () => {
     return (
         <section className='bg-[#043873] text-[#FFFFFF] py-[140px] px-[220px]'>
             <div className='flex flex-col gap-y-10 items-center justify-center'>

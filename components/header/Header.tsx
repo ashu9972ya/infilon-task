@@ -1,9 +1,8 @@
 import Image from 'next/image'
 import React from 'react'
 
-type Props = {}
 
-const Header = (props: Props) => {
+const Header = ( ) => {
     return (
         <header className='py-4 bg-[#043873] text-[#FFFFFF]'>
             <div className='flex justify-around item-center'>
