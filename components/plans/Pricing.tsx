@@ -37,7 +37,8 @@ const Pricing = () => {
           </div>
 
           {/* Personal Plan */}
-          <div className="bg-[#043873] text-white rounded-lg shadow-lg p-6 text-center transform md:scale-110 flex flex-col">
+          <div className="bg-[#043873] text-white rounded-lg shadow-lg p-6 text-left
+           transform md:scale-110 flex flex-col">
             <h3 className="text-lg font-semibold">Personal</h3>
             <p className="text-4xl font-bold mt-4">$11.99</p>
             <p className="mt-2">Keep home and family on track</p>
